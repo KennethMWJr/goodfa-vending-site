@@ -1203,7 +1203,6 @@ a:hover {
   width: 25px;
   height: 25px;
   border: 0;
-  vertical-align: top;
 }
 .contact-info__vcard a {
   display: inline-block;
