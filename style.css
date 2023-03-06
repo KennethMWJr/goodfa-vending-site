@@ -433,7 +433,7 @@ a:hover {
 }
 .first-nav__navcontrol {
   display: none;
-  float: left;
+  position: absolute;
   width: 23%;
   width: calc(25% - 40px);
   margin-left: 1%;
