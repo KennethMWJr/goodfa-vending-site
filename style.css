@@ -1582,7 +1582,7 @@ a:hover {
     margin-bottom: 0;
   }
   .first-nav__navcontrol {
-    float: right;
+    right: 10%;
     width: 6.33333%;
     width: calc(8.33333% - 40px);
     margin-left: 1%;
