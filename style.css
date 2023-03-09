@@ -632,6 +632,7 @@ a:hover {
   /*background-image: url("/imgs/three-vending-machines.avif");*/
   background-repeat: repeat;
   background-attachment: fixed;
+  border-bottom-style: none;
 }
 .home-section__header {
   padding: 200px 10px 400px;
