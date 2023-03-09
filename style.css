@@ -627,7 +627,7 @@ a:hover {
   min-height: 100%;
   background-color: transparent;
   /*background-color: rgba(44, 62, 80, 0.3);*/
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endColorstr=#4C000000);
+  /*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endColorstr=#4C000000);*/
   zoom: 1;
   /*background-image: url("/imgs/three-vending-machines.avif");*/
   background-repeat: repeat;
