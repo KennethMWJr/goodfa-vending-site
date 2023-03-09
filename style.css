@@ -619,6 +619,7 @@ a:hover {
   background: center 0 no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  border-bottom-style: none;
 }
 .home-section__overlay {
   position: relative;
