@@ -608,8 +608,8 @@ a:hover {
   width: 100%;
   height: 0;
   clear: both;
-  -webkit-box-shadow: 0 0 2px 1px #2c3e50;
-  box-shadow: 0 0 2px 1px #2c3e50;
+  /*-webkit-box-shadow: 0 0 2px 1px #2c3e50;
+  box-shadow: 0 0 2px 1px #2c3e50;*/
 }
 .home-section__bg {
   position: absolute;
@@ -638,6 +638,7 @@ a:hover {
 .home-section__header {
   padding: 200px 10px 400px;
   text-align: left;
+  border-bottom-width: 0px;
 }
 .home-section__header h1 {
   margin-bottom: 10px;
