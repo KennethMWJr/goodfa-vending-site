@@ -618,7 +618,7 @@ a:hover {
   z-index: 0;
   background: center 0 no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+  background-size: 100% 100%;
   border-bottom-style: none;
 }
 .home-section__overlay {
