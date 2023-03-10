@@ -802,7 +802,7 @@ a:hover {
   margin-right: calc(20px);
   height: auto;
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 300px;
   height: 360px;
 }
 .process:hover .process__step-icon.is-active {
@@ -1554,7 +1554,7 @@ a:hover {
     margin-left: calc(20px);
     margin-right: calc(20px);
     height: auto;
-    margin-top: 0;
+    margin-top: 30%;
     margin-bottom: 0;
     float: none;
   }
