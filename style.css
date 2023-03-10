@@ -1431,9 +1431,10 @@ a:hover {
     font-size: 18px;
   }
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 930px) {
   .common-section {
     padding-top: 50px;
+    margin: 80% 0px -70%;
   }
   .common-section__header {
     padding-bottom: 30px;
