@@ -158,7 +158,8 @@ body {
   clear: both;
   height: 0;
 }
-.common-section {
+.common-section,
+.advantages {
   padding-top: 100px;
   width: 100%;
   margin: 0 0;
