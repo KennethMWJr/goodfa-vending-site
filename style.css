@@ -868,13 +868,13 @@ a:hover {
   left: 12.5%;
   visibility: visible;
 }
-.process__step:hover + .process__step-info_develop:before,
-.process__step:hover + .process__step-info_develop:after {
+.process__step:hover + .process__step-info_location:before,
+.process__step:hover + .process__step-info_location:after {
   left: 37.5%;
   visibility: visible;
 }
-.process__step:hover + .process__step-info_deploy:before,
-.process__step:hover + .process__step-info_deploy:after {
+.process__step:hover + .process__step-info_plan:before,
+.process__step:hover + .process__step-info_plan:after {
   left: 62.5%;
   visibility: visible;
 }
