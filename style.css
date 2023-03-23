@@ -936,8 +936,8 @@ a:hover {
   box-shadow: 2px 2px 4px -2px #2c3e50;
 }
 .process__step-info_research,
-.process__step-info_develop,
-.process__step-info_deploy,
+.process__step-info_location,
+.process__step-info_plan,
 .process__step-info_deliver {
   visibility: hidden;
 }
