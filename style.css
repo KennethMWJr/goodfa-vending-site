@@ -439,7 +439,7 @@ a:hover {
   margin-left: 1%;
   margin-right: 1%;
   margin-left: calc(20px);
-  margin-right: calc(20px);
+  margin-right: calc(5px);
   height: auto;
   margin-top: 0;
   margin-bottom: 0;
@@ -1508,7 +1508,7 @@ a:hover {
     margin-bottom: 30px;
   }
   .advantages {
-    margin-top: 30px;
+    margin-top: 40%;
   }
   .process__step-icon {
     width: 160px;
