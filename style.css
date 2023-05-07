@@ -146,7 +146,7 @@ body {
 body {
   background: #fff url("/imgs/three-vending-machines.jpg");
 }
-#goodfa {
+#goodfa, #gfvmenu, #gfvcontact {
   color:#ffa726;
 }
 .container {
