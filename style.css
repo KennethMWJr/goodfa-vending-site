@@ -153,6 +153,7 @@ body {
 }
 #bgprocess {
   background-color: #ffa726;
+  z-index: 1;
 }
 .container {
   position: relative;
