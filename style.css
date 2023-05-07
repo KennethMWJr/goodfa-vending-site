@@ -153,6 +153,7 @@ body {
 }
 #bgprocess {
   background-color: #ffa726;
+  border-radius: 50%;
   z-index: 5;
 }
 .container {
