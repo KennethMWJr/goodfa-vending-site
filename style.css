@@ -151,6 +151,9 @@ body {
 #gfvcontact {
   color:#ffa726;
 }
+#bgprocess {
+  background-color: #ffa726;
+}
 .container {
   position: relative;
   max-width: 1200px;
