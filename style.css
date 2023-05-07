@@ -146,7 +146,9 @@ body {
 body {
   background: #fff url("/imgs/three-vending-machines.jpg");
 }
-#goodfa, #gfvmenu, #gfvcontact {
+#goodfa,
+#gfvmenu,
+#gfvcontact {
   color:#ffa726;
 }
 .container {
@@ -467,10 +469,10 @@ a:hover {
 .first-nav__navcontrol.is-closed {
   display: block;
 }
-.first-nav__navcontrol:hover,
+/*.first-nav__navcontrol:hover,
 .first-nav__navcontrol:hover:before {
   color: #2c3e50;
-}
+}*/
 .second-nav {
   position: relative;
   min-height: 80px;
