@@ -623,11 +623,11 @@ a:hover {
 }
 .home-section__bg {
   background-image: url("imgs/three-vending-machines.jpg");
-  position: absolute;
+  /*position: absolute;
   min-width: 100%;
   min-height: 100%;
   z-index: 0;
-  background: center 0 no-repeat;
+  background: center 0 no-repeat;*/
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
