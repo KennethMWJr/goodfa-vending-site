@@ -622,6 +622,7 @@ a:hover {
   box-shadow: 0 0 2px 1px #2c3e50;*/
 }
 .home-section__bg {
+  background-image: url("imgs/three-vending-machines.jpg");
   position: absolute;
   min-width: 100%;
   min-height: 100%;
