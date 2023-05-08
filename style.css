@@ -665,7 +665,7 @@ a:hover {
   font-family: "Open Sans Condensed";
   text-shadow: 1px 1px 2px #2c3e50;
 }
-.about-section {
+/*.about-section {
   position: relative;
   margin-top: -200px;
 }
@@ -713,7 +713,7 @@ a:hover {
 .about-card__info .about-card__info-status span {
   font-weight: 700;
   text-transform: uppercase;
-}
+}*/
 .services {
   list-style-type: none;
   float: left;
