@@ -626,14 +626,14 @@ a:hover {
   min-width: 100%;
   min-height: 100%;
   z-index: 0;
-  background: center 0 no-repeat;
+  /*background: center 0 no-repeat;*/
   background-attachment: fixed;
   background-size: 100% 100%;
   background-position: center center;
   border-bottom-style: none;
 }
 .home-section__overlay {
-  background-image: url("imgs/three-vending-machines.jpg");
+  /*background-image: url("imgs/three-vending-machines.jpg");*/
   position: absolute;
   width: 100%;
   height: 100%;
@@ -643,7 +643,7 @@ a:hover {
   /*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endColorstr=#4C000000);*/
   zoom: 1;
   /*background-image: url("/imgs/three-vending-machines.avif");*/
-  background-repeat: no-repeat;
+  /*background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: center center;
   /*background-repeat: repeat;*/
