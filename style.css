@@ -776,7 +776,7 @@ a:hover {
 .advantages h2:before,
 .advantages h2:after {
   content: "";
-  position: static;
+  position: absolute;
   top: 15px;
   display: block;
   width: 30%;
