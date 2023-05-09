@@ -203,6 +203,7 @@ body {
   width: 100%;
   margin: 0 0;
   clear: both;
+  position: static;
 }
 .grid-container:before,
 .grid-container:after {
@@ -210,7 +211,6 @@ body {
   content: "";
   clear: both;
   height: 0;
-  position: static;
 }
 ::selection {
   color: #ecf0f1;
