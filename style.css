@@ -156,6 +156,9 @@ body {
   border-radius: 50%;
   z-index: 5;
 }
+#about {
+  position: static;
+}
 .container {
   position: relative;
   max-width: 1200px;
