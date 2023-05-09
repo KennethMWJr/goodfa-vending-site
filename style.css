@@ -157,7 +157,7 @@ body {
   z-index: 5;
 }
 .container {
-  position: static;
+  position: relative;
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -180,6 +180,7 @@ body {
   content: "";
   clear: both;
   height: 0;
+  position: static;
 }
 .common-section__header {
   padding-bottom: 50px;
