@@ -1674,6 +1674,10 @@ a:hover {
   }
 }
 @media screen and (max-width: 480px) {
+  .common-section {
+    padding-top: 50px;
+    margin: 75% 0px -10%;
+  }
   .advantages h2:before,
   .advantages h2:after {
     width: 10%;
