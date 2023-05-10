@@ -152,10 +152,10 @@ body {
   color:#ffa726;
 }
 #bgprocess {
-  /*background-color: #ecf0f1;*/
-  border-left: 50% solid transparent;
+  background-color: #ecf0f1;
+  /*border-left: 50% solid transparent;
   border-right: 50% solid transparent;
-  border-top: 100% solid #ecf0f1;
+  border-top: 100% solid #ecf0f1;*/
   z-index: 5;
 }
 #about {
