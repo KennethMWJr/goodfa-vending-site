@@ -1460,7 +1460,7 @@ a:hover {
 @media screen and (max-width: 930px) {
   .common-section {
     padding-top: 50px;
-    margin: 10% 0px -10%;
+    margin: 40% 0px -2%;
   }
   .common-section__header {
     padding-bottom: 30px;
@@ -1600,7 +1600,7 @@ a:hover {
 @media screen and (max-width: 600px) {
   .common-section {
     padding-top: 50px;
-    margin: 75% 0px -10%;
+    margin: 75% 0px -2%;
   }
   .first-nav__languages,
   .first-nav__links {
