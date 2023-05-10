@@ -153,7 +153,9 @@ body {
 }
 #bgprocess {
   background-color: #ffa726;
-  border-radius: 50%;
+  border-left: 50% solid transparent;
+  border-right: 50% solid transparent;
+  border-top: 100% solid #ffa726;
   z-index: 5;
 }
 #about {
