@@ -1449,12 +1449,12 @@ a:hover {
   }
 }
 @media screen and (max-width: 915px) {
-  .testimonials__item blockquote cite {
-    font-size: 18px;
-  }
   .common-section {
     padding-top: 50px;
     margin: 10% 0px -10%;
+  }
+  .testimonials__item blockquote cite {
+    font-size: 18px;
   }
 }
 @media screen and (max-width: 930px) {
