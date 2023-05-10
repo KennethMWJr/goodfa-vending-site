@@ -155,7 +155,7 @@ body {
   background-color: #ffa726;
   border-left: 50% solid transparent;
   border-right: 50% solid transparent;
-  border-top: 100% solid #ffa726;
+  border-top: 100% solid;
   z-index: 5;
 }
 #about {
