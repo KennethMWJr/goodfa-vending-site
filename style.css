@@ -151,10 +151,10 @@ body {
 #gfvcontact {
   color:#ffa726;
 }
-#bgprocess {
+/*#bgprocess {
   background-color: #ecf0f1;
   z-index: 5;
-}
+}*/
 #about {
   position: static;
 }
